@@ -139,7 +139,7 @@ IndentationError: unexpected indent
 
 `and or`
 
-:pushpin: logique
+:pushpin: example de logique
 
 `3> 2 ** 3 and 3 == 3`
 
@@ -161,6 +161,14 @@ for c in 'Boreal':
    print(c)
 ```
 
+:pushpin: While
+
+```python
+while True:
+   print('Que faire?')
+```
+
+:warning: Boucle infinie a arreter avec Ctrl-C
 
 
 ## :o2: git Commands

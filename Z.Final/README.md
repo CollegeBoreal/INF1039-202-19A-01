@@ -168,7 +168,7 @@ while True:
    print('Que faire?')
 ```
 
-:warning: Boucle infinie a arreter avec Ctrl-C
+:warning: Boucle infinie à arrêter avec `Ctrl-C`
 
 
 ## :o2: git Commands

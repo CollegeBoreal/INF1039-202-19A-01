@@ -121,7 +121,7 @@ IndentationError: unexpected indent
 
 :m: Controle
 
-:pushpin: Operateurs
+:p: Operateurs
 
 * Ordre des operateurs: `+- = GD, */ prioritaire et parenthese`
 
@@ -147,11 +147,19 @@ IndentationError: unexpected indent
 
 `if else: elif: `
 
-:m: Boucles
-
+:m: Intervalles
 
 `range(0, 9)`
 
+
+:m: Boucles
+
+:pushpin: For
+
+```python
+for c in 'Boreal':
+   print(c)
+```
 
 
 

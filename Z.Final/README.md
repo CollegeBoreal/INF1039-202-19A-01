@@ -168,6 +168,24 @@ while True:
    print('Que faire?')
 ```
 
+:m: Fonctions
+
+```python
+def f(x):
+   return x + 1
+```
+
+:m: Librairies
+
+```python
+import math
+
+pi = math.pi
+```
+
+
+
+
 :warning: Boucle infinie à arrêter avec `Ctrl-C`
 
 

@@ -22,11 +22,6 @@ l_espace = nom_complet2.find(" ")
 nom2 = nom_complet2[0:l_espace]
 prenom2 = nom_complet2[l_espace + 1 : len(nom_complet2)]
 
-# Imprimer les noms et prenoms
-print(("Premier nom : ") , (nom1))
-print(("Premier prénom : ") , (prenom1))
-print(("Deuxième nom : ") , (nom2))
-print(("Deuxième prénom : ") , (prenom2))
 
 # Definir la taille des noms et prenoms
 taille_nom1 = len(nom1)
@@ -65,13 +60,8 @@ nouveau_prenom3 = demi2_prenom2 + demi1_prenom1
 nouveau_prenom4 = demi1_prenom2 + demi2_prenom1
 
 # Imprimer les nouveaux noms
-print(("possibilité nom 1: ") , (nouveau_nom1))
-print(("possibilité nom 2: ") , (nouveau_nom2))
-print(("possibilité nom 3: ") , (nouveau_nom3))
-print(("possibilité nom 4: ") , (nouveau_nom4))
+print(("Possibilité N1: ") , (nouveau_nom1), (nouveau_prenom1))
+print(("Possibilité N2: ") , (nouveau_nom3), (nouveau_prenom3))
+print("Faites votre choix ")
+print("MERCI")
 
-# Imprimer les nouveaux prénoms
-print(("possibilité prénom 1: ") , (nouveau_prenom1))
-print(("possibilité prénom 2:") , (nouveau_prenom2))
-print(("possibilité prénom 3: ") , (nouveau_prenom3))
-print(("possibilité prénom 4: ") , (nouveau_prenom4))

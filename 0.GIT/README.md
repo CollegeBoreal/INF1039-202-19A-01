@@ -14,7 +14,7 @@ Créer votre compte sur https://github.com et veuillez fournir votre :id: github
 |   01 |  300065026 | Rémy, `Joseph` Abner               | [josephabnerremy](https://github.com/josephabnerremy) |
 |   02 |  300111441 | Fofana, `Sékou`                    | [Sekou16](https://github.com/Sekou16)                 |
 |   03 |  300111824 | Mansiantima, Mayuma `Blévie`       | [300111824](https://github.com/300111824)             |
-|   04 |  300114153 | Bounguab, `Yassine`                | [yassine2k](https://github.com/yassine2k)             |
+|   04 |  300114153 | Bounguab, `Yassine`                | [yassineloco](https://github.com/yassineloco)         |
 |   05 |  300115065 | Fadde, `Abdelkrim`                 | [fadde68](https://github.com/fadde68)                 |
 |   06 |  300115140 | Sadi-Bourouih, Mouloud `Zack`      | [ZackTO](https://github.com/ZackTO)                   |
 |   07 |  300116370 | Ouahhabi, `Khalid`                 | [khal1967](https://github.com/khal1967)               |

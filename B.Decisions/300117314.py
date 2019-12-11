@@ -6,7 +6,7 @@ Created on Wed Nov  6 15:35:34 2019
 """
 
 print(3 + 2)  # ADDITION
-print(2 + 3)  #mULTIPLICATION
+print(2 * 3)  #MULTIPLICATION
 print(7 // 2) #DIVISION ENTIERE 
 print(5 % 2) #dIVISION
 print(5 - 2) #soustraction 

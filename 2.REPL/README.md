@@ -1,9 +1,15 @@
 # Install
 
 
+## Avec un [PackageManager](https://github.com/CollegeBoreal/Tutoriels/tree/master/G.PackageManager)
+
+:apple: MacOS
+
 ```
 $ brew cask install anaconda
 ```
+
+:bulb: Windows
 
 ```
 > choco install anaconda3

@@ -1,4 +1,4 @@
-# Corrections au 13-11-2019 13:11
+# Corrections au 12-12-2019 10:40
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -101,7 +101,18 @@ False
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-python: can't open file '300116593.py': [Errno 2] No such file or directory
+1
+17
+2
+poire
+Raptors vs Golden State Warriors
+()
+(4, 5)
+('a', 2)
+('a2', 2.5, False)
+3
+0
+False
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -288,18 +299,8 @@ python: can't open file '300117864.py': [Errno 2] No such file or directory
 ## Etudiant 300118075 
 ###  =[BEGIN]============== Exécution du script 300118075 =============== 
 ```
-17
-e se trouve à la position: 8
-2
-poire
-RaptorsvsGolden State Warriors
-()
-(4, 5)
-('a', 2)
-('a1', 2.5, False)
-3
-0
-False
+  File "300118075.py", line 11
+SyntaxError: Non-ASCII character '\xc3' in file 300118075.py on line 11, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
 

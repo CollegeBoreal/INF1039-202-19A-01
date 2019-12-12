@@ -1,4 +1,4 @@
-# Corrections au 13-11-2019 13:16
+# Corrections au 12-12-2019 10:40
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -13,7 +13,7 @@ python: can't open file '300065026.py': [Errno 2] No such file or directory
 5
 6
 2
-3.5
+3
 1
 3
 256
@@ -53,7 +53,8 @@ python: can't open file '300114153.py': [Errno 2] No such file or directory
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-entrer votre age: Vous êtes majeur
+  File "300115065.py", line 6
+SyntaxError: Non-ASCII character '\xc3' in file 300115065.py on line 6, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -74,7 +75,7 @@ entrer un nombre: x est positif
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-python: can't open file '300116593.py': [Errno 2] No such file or directory
+entrer un num:num superieur a 0
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -116,14 +117,17 @@ ENTRER UN NOMRE: positif
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-python: can't open file '300117314.py': [Errno 2] No such file or directory
+  File "300117314.py", line 13
+SyntaxError: Non-ASCII character '\xc3' in file 300117314.py on line 13, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file '300117444.py': [Errno 2] No such file or directory
+----------------------------------------------
+Bonjour,Veuillez entrer un nombre SVP 
+positif
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
@@ -174,12 +178,8 @@ entrer un nombre:positif
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-bonjour et bienvenue 
-
-veuillez inserér un nombre: c'est nombre positif
-
-de plus, il s'agit d'un nombre impaire
-
+  File "300118196.py", line 5
+SyntaxError: Non-ASCII character '\xc3' in file 300118196.py on line 5, but no encoding declared; see http://python.org/dev/peps/pep-0263/ for details
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 

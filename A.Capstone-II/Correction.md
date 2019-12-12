@@ -1,4 +1,4 @@
-# Corrections au 27-11-2019 11:16
+# Corrections au 12-12-2019 10:40
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -10,7 +10,11 @@ python: can't open file '300065026.py': [Errno 2] No such file or directory
 ## Etudiant 300111441 
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
-python: can't open file '300111441.py': [Errno 2] No such file or directory
+Bienvenue dans le jeu de melange
+Inserer votre nom complet(prenom nom)Inserer le second nom complet(prenom nom)Traceback (most recent call last):
+  File "300111441.py", line 15, in <module>
+    space = nom1.find(" ")
+AttributeError: 'int' object has no attribute 'find'
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -31,7 +35,10 @@ python: can't open file '300114153.py': [Errno 2] No such file or directory
 ## Etudiant 300115065 
 ###  =[BEGIN]============== Exécution du script 300115065 =============== 
 ```
-python: can't open file '300115065.py': [Errno 2] No such file or directory
+  File "300115065.py", line 2
+    @author: akram
+           ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300115065 =============== 
 
@@ -39,30 +46,28 @@ python: can't open file '300115065.py': [Errno 2] No such file or directory
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): Khawi
-Leonard
-Kyle
-Lowry
+entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 
+3
+
+3
 C'est fini! choississez celui que préférez
-Khle Khle
-Kyawi Kyawi
+('', '')
+('', '')
 C'est fini! choississez celui que préférez
-Khle
-Khle
-Kyawi
-Kyawi
+
+
+
+
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: Pasge I
-Sia
-Sercal
-akakam
-Pasge I Sia
-Sercal akakam
+entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
+  File "300116370.py", line 32, in <module>
+    r1 = (name1[0:3] + name2[3:7])
+TypeError: 'int' object has no attribute '__getitem__'
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
@@ -78,15 +83,20 @@ harounahmat
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
 welcome to the mashup game
-Entrer un nom entier(prenom nom)Entrer un autre nom entier(prenom nom)Serge Ibakaascal Siakam
-Serge ascal SiakamIbaka
+Entrer un nom entier(prenom nom)Entrer un autre nom entier(prenom nom)Traceback (most recent call last):
+  File "300116670.py", line 15, in <module>
+    space = name1.find(" ")
+AttributeError: 'int' object has no attribute 'find'
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-python: can't open file '300116685.py': [Errno 2] No such file or directory
+entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
+  File "300116685.py", line 20, in <module>
+    n1 = (name1[:1] + name2[4:2])
+TypeError: 'int' object has no attribute '__getitem__'
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -94,18 +104,18 @@ python: can't open file '300116685.py': [Errno 2] No such file or directory
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): Serge
-Ibaka
-Pascal
-Siakam
+entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 
+3
+
+3
 Fin! ici vous avez deux possibilitees, choississez ce que vous aimez le plus!
-Secal Sercal
-Pasrge Pasge
+('', '')
+('', '')
 vous avez termine! choississez ce que vous aimez le plus
-Secal
-Sercal
-Pasrge
-Pasge
+
+
+
+
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
@@ -119,71 +129,69 @@ python: can't open file '300117029.py': [Errno 2] No such file or directory
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-
-
-   CE PETIT PROGRAMME FAIT LA COMBINAISON DE VOS DEUX PREMIER PRENOM ET VOS DEUX PREMIER NOMS
-
-   VEUILLEZ ENTREZ VOS DEUX PREMIERS PRENOMS ET PRENOM
-
-   SVP
-
-   
-PRENOM:
-NOM:
- PascSiak  SergIbak
-VOULEZ VOUS SAISIR A NOUVEAU O/N ?
-
-aurevoir
+PRENOM:NOM:#####################
+('Mashup:', '3', '', '3')
+#####################
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-  File "300117314.py", line 1
-    @author: Morti
-           ^
-SyntaxError: invalid syntax
+welcome to the mashup game
+inter one full name(First Last) :enter another full name(First Last) :Traceback (most recent call last):
+  File "300117314.py", line 11, in <module>
+    space=name1 . find (" ")
+AttributeError: 'int' object has no attribute 'find'
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file '300117444.py': [Errno 2] No such file or directory
+Veuillez entrer un nom et un prenom:Veuillez entrer le 2eme nom et prenom:Traceback (most recent call last):
+  File "300117444.py", line 21, in <module>
+    Nom1 = (NomPrenom1[1:5] + NomPrenom2[5:10] )
+TypeError: 'int' object has no attribute '__getitem__'
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: ral 
-Seral Si
-Pasge 
-iaka
-ral  Seral Si
-Pasge  iaka
+entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
+  File "300117705.py", line 25, in <module>
+    n1 = (name1[2:3] + name2[4:7])
+TypeError: 'int' object has no attribute '__getitem__'
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
 ## Etudiant 300117782 
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
-python: can't open file '300117782.py': [Errno 2] No such file or directory
+bienvenu dans mon jeu
+veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 3
+3
+33
+333
+Merci, Bonne journée
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-python: can't open file '300117784.py': [Errno 2] No such file or directory
+nom:prenom:('Mashup:', '3', '3')
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
 ## Etudiant 300117806 
 ###  =[BEGIN]============== Exécution du script 300117806 =============== 
 ```
-python: can't open file '300117806.py': [Errno 2] No such file or directory
+  File "300117806.py", line 12
+    nom1 = str("input(entre le premier nom(FIRST LAST) : ")))
+                                                           ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117806 =============== 
 
@@ -200,7 +208,7 @@ python: can't open file '300117864.py': [Errno 2] No such file or directory
 Give me 2 names in the format : FIRST and LAST
 
 
-the new name in format FIRST and LAST is :Paerge Sia 
+the new name in format FIRST and LAST is :3 33 
 
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
@@ -208,10 +216,10 @@ the new name in format FIRST and LAST is :Paerge Sia
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: SergSer
-IbaSerg
-IbaSSerg
-SergIba
+veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 3
+3
+33
+333
 merci, aurevoir
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
@@ -219,6 +227,10 @@ merci, aurevoir
 ## Etudiant 300118524 
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
-python: can't open file '300118524.py': [Errno 2] No such file or directory
+Bienvenue au jeu du Mashup
+entrer un premier nom et prenom :  entrer un deuxième nom et prenom :  Traceback (most recent call last):
+  File "300118524.py", line 17, in <module>
+    l_espace = nom_complet1.find(" ")
+AttributeError: 'int' object has no attribute 'find'
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 

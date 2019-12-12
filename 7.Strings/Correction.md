@@ -1,4 +1,4 @@
-# Corrections au 13-11-2019 13:07
+# Corrections au 12-12-2019 10:40
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -139,7 +139,10 @@ an
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-python: can't open file '300117444.py': [Errno 2] No such file or directory
+  File "300117444.py", line 1
+    Created on Tue Nov 06 18:24:03 2019
+             ^
+SyntaxError: invalid syntax
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 

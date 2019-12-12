@@ -1,4 +1,4 @@
-# Corrections au 04-12-2019 08:41
+# Corrections au 12-12-2019 10:40
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -32,7 +32,7 @@
 ## Etudiant 300114153 
 ###  =[BEGIN]============== Exécution du script 300114153 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300114153.py': [Errno 2] No such file or directory
+python: can't open file '300114153.py': [Errno 2] No such file or directory
 ```
 ###  =[END]============== Exécution du script 300114153 =============== 
 
@@ -93,7 +93,9 @@
 ## Etudiant 300116973 
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300116973.py': [Errno 2] No such file or directory
+('var v is', 0)
+('var v is', 1)
+('var v is', 2)
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
@@ -119,7 +121,9 @@ NameError: name 'y' is not defined
 ## Etudiant 300117314 
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117314.py': [Errno 2] No such file or directory
+('var v is', 0)
+('var v is', 1)
+('var v is', 2)
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
@@ -171,7 +175,11 @@ NameError: name 'y' is not defined
 ## Etudiant 300117864 
 ###  =[BEGIN]============== Exécution du script 300117864 =============== 
 ```
-/System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python: can't open file '300117864.py': [Errno 2] No such file or directory
+('var v is ', 0)
+('var v is ', 1)
+('var v is ', 2)
+('var v is ', 3)
+('var v is ', 4)
 ```
 ###  =[END]============== Exécution du script 300117864 =============== 
 

@@ -1,4 +1,4 @@
-# Participation au 13-11-2019 13:11
+# Participation au 12-12-2019 10:40
 
 ## Légende
 
@@ -18,7 +18,7 @@
 | 5 | [300115065](300115065.py) | [:heavy_check_mark:](Correction.md#etudiant-300115065) |
 | 6 | [300115140](300115140.py) | [:heavy_check_mark:](Correction.md#etudiant-300115140) |
 | 7 | [300116370](300116370.py) | [:heavy_check_mark:](Correction.md#etudiant-300116370) |
-| 8 | [300116593](300116593.py) | [:x:](Correction.md#etudiant-300116593) |
+| 8 | [300116593](300116593.py) | [:heavy_check_mark:](Correction.md#etudiant-300116593) |
 | 9 | [300116670](300116670.py) | [:heavy_check_mark:](Correction.md#etudiant-300116670) |
 | 10 | [300116685](300116685.py) | [:heavy_check_mark:](Correction.md#etudiant-300116685) |
 | 11 | [300116973](300116973.py) | [:heavy_check_mark:](Correction.md#etudiant-300116973) |

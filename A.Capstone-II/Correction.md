@@ -1,4 +1,4 @@
-# Corrections au 12-12-2019 10:40
+# Corrections au 12-12-2019 11:38
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -11,10 +11,13 @@ python: can't open file '300065026.py': [Errno 2] No such file or directory
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
 Bienvenue dans le jeu de melange
-Inserer votre nom complet(prenom nom)Inserer le second nom complet(prenom nom)Traceback (most recent call last):
-  File "300111441.py", line 15, in <module>
-    space = nom1.find(" ")
-AttributeError: 'int' object has no attribute 'find'
+Inserer votre nom complet(prenom nom)Traceback (most recent call last):
+  File "300111441.py", line 12, in <module>
+    nom1 = input("Inserer votre nom complet(prenom nom)")
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -46,36 +49,39 @@ SyntaxError: invalid syntax
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 
-3
-
-3
-C'est fini! choississez celui que préférez
-('', '')
-('', '')
-C'est fini! choississez celui que préférez
-
-
-
-
+entre le premier nom (FIRST LAST) : Traceback (most recent call last):
+  File "300115140.py", line 12, in <module>
+    nom1 = str(input("entre le premier nom (FIRST LAST) : "))
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
-  File "300116370.py", line 32, in <module>
-    r1 = (name1[0:3] + name2[3:7])
-TypeError: 'int' object has no attribute '__getitem__'
+entrer prenom et nom: Traceback (most recent call last):
+  File "300116370.py", line 26, in <module>
+    name1 = input('entrer prenom et nom: ')
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
 ## Etudiant 300116593 
 ###  =[BEGIN]============== Exécution du script 300116593 =============== 
 ```
-nom prenom:nom prenom:abdramane abdrasoul
-harounahmat
+nom prenom:Traceback (most recent call last):
+  File "300116593.py", line 7, in <module>
+    prenomA = input('nom prenom:')
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300116593 =============== 
 
@@ -83,20 +89,26 @@ harounahmat
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
 welcome to the mashup game
-Entrer un nom entier(prenom nom)Entrer un autre nom entier(prenom nom)Traceback (most recent call last):
-  File "300116670.py", line 15, in <module>
-    space = name1.find(" ")
-AttributeError: 'int' object has no attribute 'find'
+Entrer un nom entier(prenom nom)Traceback (most recent call last):
+  File "300116670.py", line 12, in <module>
+    name1 = input("Entrer un nom entier(prenom nom)")
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
-  File "300116685.py", line 20, in <module>
-    n1 = (name1[:1] + name2[4:2])
-TypeError: 'int' object has no attribute '__getitem__'
+entrer prenom et nom: Traceback (most recent call last):
+  File "300116685.py", line 12, in <module>
+    name1 = input('entrer prenom et nom: ')
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -104,18 +116,13 @@ TypeError: 'int' object has no attribute '__getitem__'
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 
-3
-
-3
-Fin! ici vous avez deux possibilitees, choississez ce que vous aimez le plus!
-('', '')
-('', '')
-vous avez termine! choississez ce que vous aimez le plus
-
-
-
-
+entre le premier nom (FIRST LAST) : Traceback (most recent call last):
+  File "300116973.py", line 12, in <module>
+    nom1 = str(input("entre le premier nom (FIRST LAST) : "))
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
@@ -129,9 +136,13 @@ python: can't open file '300117029.py': [Errno 2] No such file or directory
 ## Etudiant 300117178 
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
-PRENOM:NOM:#####################
-('Mashup:', '3', '', '3')
-#####################
+PRENOM:Traceback (most recent call last):
+  File "300117178.py", line 8, in <module>
+    p1=str(input("PRENOM:"))
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
 
@@ -139,30 +150,37 @@ PRENOM:NOM:#####################
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
 welcome to the mashup game
-inter one full name(First Last) :enter another full name(First Last) :Traceback (most recent call last):
-  File "300117314.py", line 11, in <module>
-    space=name1 . find (" ")
-AttributeError: 'int' object has no attribute 'find'
+inter one full name(First Last) :Traceback (most recent call last):
+  File "300117314.py", line 7, in <module>
+    name1=input("inter one full name(First Last) :")
+  File "<string>", line 1, in <module>
+NameError: name 'SergeIbaka' is not defined
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-Veuillez entrer un nom et un prenom:Veuillez entrer le 2eme nom et prenom:Traceback (most recent call last):
-  File "300117444.py", line 21, in <module>
-    Nom1 = (NomPrenom1[1:5] + NomPrenom2[5:10] )
-TypeError: 'int' object has no attribute '__getitem__'
+Veuillez entrer un nom et un prenom:Traceback (most recent call last):
+  File "300117444.py", line 13, in <module>
+    NomPrenom1 = input('Veuillez entrer un nom et un prenom:')
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: Traceback (most recent call last):
-  File "300117705.py", line 25, in <module>
-    n1 = (name1[2:3] + name2[4:7])
-TypeError: 'int' object has no attribute '__getitem__'
+entrer prenom et nom: Traceback (most recent call last):
+  File "300117705.py", line 19, in <module>
+    name1 = input('entrer prenom et nom: ')
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -170,18 +188,28 @@ TypeError: 'int' object has no attribute '__getitem__'
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
 bienvenu dans mon jeu
-veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 3
-3
-33
-333
-Merci, Bonne journée
+veuillez saisir votre prénom: Traceback (most recent call last):
+  File "300117782.py", line 41, in <module>
+    get_random(0)
+  File "300117782.py", line 15, in get_random
+    prename = str(input('veuillez saisir votre prénom: '))
+  File "<string>", line 1
+    Pascala Siakam
+                 ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
 
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-nom:prenom:('Mashup:', '3', '3')
+nom:Traceback (most recent call last):
+  File "300117784.py", line 8, in <module>
+    nom=str(input('nom:'))
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
@@ -207,20 +235,28 @@ python: can't open file '300117864.py': [Errno 2] No such file or directory
 ```
 Give me 2 names in the format : FIRST and LAST
 
-
-the new name in format FIRST and LAST is :3 33 
-
+Traceback (most recent call last):
+  File "300118075.py", line 6, in <module>
+    name1 = str(input('\n'))
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
 
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 3
-3
-33
-333
-merci, aurevoir
+veuillez saisir votre prénom: Traceback (most recent call last):
+  File "300118196.py", line 36, in <module>
+    get_random(0)
+  File "300118196.py", line 10, in get_random
+    prename = str(input('veuillez saisir votre prénom: '))
+  File "<string>", line 1
+    Serge Ibaka
+              ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
 
@@ -228,9 +264,12 @@ merci, aurevoir
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
 Bienvenue au jeu du Mashup
-entrer un premier nom et prenom :  entrer un deuxième nom et prenom :  Traceback (most recent call last):
-  File "300118524.py", line 17, in <module>
-    l_espace = nom_complet1.find(" ")
-AttributeError: 'int' object has no attribute 'find'
+entrer un premier nom et prenom :  Traceback (most recent call last):
+  File "300118524.py", line 13, in <module>
+    nom_complet1 = input("entrer un premier nom et prenom :  ")
+  File "<string>", line 1
+    Pascal Siakam
+                ^
+SyntaxError: unexpected EOF while parsing
 ```
 ###  =[END]============== Exécution du script 300118524 =============== 

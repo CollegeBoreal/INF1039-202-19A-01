@@ -6,7 +6,7 @@ $ brew cask install anaconda
 ```
 
 ```
-> choco install anaconda3 --version=2019.03
+> choco install anaconda3
 ```
 
 

@@ -1,13 +1,13 @@
 #!/bin/sh
 
 LESSONS=(
+6.Capstone-I
+A.Capstone-II
 1.Python
 4.Variables
-6.Capstone-I
 7.Strings
 8.Tuples
 9.Conditions
-A.Capstone-II
 C.Loops
 D.Functions
 )

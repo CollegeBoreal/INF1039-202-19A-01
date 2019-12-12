@@ -1,5 +1,16 @@
 # Install
 
+
+```
+$ brew cask install anaconda
+```
+
+```
+> choco install anaconda3 --version=2019.03
+```
+
+
+
 ## Binaire
 
 https://www.anaconda.com/distribution/

@@ -14,6 +14,7 @@ Introduction a la programmation
 |07|19-10-30|[9.Conditions](9.Conditions/Participation.md)   | Etude sur la structure de controle      |                  |
 |08|19-11-13|[A.Capstone-II](A.Capstone-II/Participation.md) | Devoirs fin Unite 2                     |                  |
 |09|19-12-04|[C.Loops](C.Loops/Participation.md)             | Etude sur les boucles .                 |                  |
+|09|19-12-12|[D.Functions](D.Functions/Participation.md)     | Etude sur les fonctions .               |                  |
 
 
 ## :two: Elements de Performance

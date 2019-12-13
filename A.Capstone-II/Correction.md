@@ -1,4 +1,4 @@
-# Corrections au 12-12-2019 17:33
+# Corrections au 12-12-2019 21:54
 
 ## Etudiant 300065026 
 ###  =[BEGIN]============== Exécution du script 300065026 =============== 
@@ -11,8 +11,8 @@ python: can't open file '300065026.py': [Errno 2] No such file or directory
 ###  =[BEGIN]============== Exécution du script 300111441 =============== 
 ```
 Bienvenue dans le jeu de melange
-Inserer votre nom complet(prenom nom)Inserer le second nom complet(prenom nom)'Serge Ibaka'Pascal Siakam'
-'Serge Pascal Siakam'Ibaka'
+Inserer votre nom complet(prenom nom)Inserer le second nom complet(prenom nom)Serge Ibakaascal Siakam
+Serge ascal SiakamIbaka
 ```
 ###  =[END]============== Exécution du script 300111441 =============== 
 
@@ -44,26 +44,26 @@ SyntaxError: invalid syntax
 ###  =[BEGIN]============== Exécution du script 300115140 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 'Serge
-Ibaka'
-'Pascal
-Siakam'
+entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): Serge
+Ibaka
+Pascal
+Siakam
 C'est fini! choississez celui que préférez
-'sescal 'sescal
-'parge 'parge
+Secal Sercal
+Pasrge Pasge
 C'est fini! choississez celui que préférez
-'sescal
-'sescal
-'parge
-'parge
+Secal
+Sercal
+Pasrge
+Pasge
 ```
 ###  =[END]============== Exécution du script 300115140 =============== 
 
 ## Etudiant 300116370 
 ###  =[BEGIN]============== Exécution du script 300116370 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: 'Sescal Ibakam
-'Parge Siaka'
+entrer prenom et nom: entrer prenom et nom: Sercal  bakam
+Pasge  iaka
 ```
 ###  =[END]============== Exécution du script 300116370 =============== 
 
@@ -79,20 +79,20 @@ harounahmat
 ###  =[BEGIN]============== Exécution du script 300116670 =============== 
 ```
 welcome to the mashup game
-Entrer un nom entier(prenom nom)Entrer un autre nom entier(prenom nom)'Serge IbakaPascal Siakam'
-'Serge Pascal Siakam'Ibaka
+Entrer un nom entier(prenom nom)Entrer un autre nom entier(prenom nom)Serge Ibakaascal Siakam
+Serge ascal SiakamIbaka
 ```
 ###  =[END]============== Exécution du script 300116670 =============== 
 
 ## Etudiant 300116685 
 ###  =[BEGIN]============== Exécution du script 300116685 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: '
-'Secal S
-'Parge
-Siaka'
-' 'Secal S
-'Parge Siaka'
+entrer prenom et nom: entrer prenom et nom: S
+Seral Si
+Pasge 
+iaka
+S Seral Si
+Pasge  iaka
 ```
 ###  =[END]============== Exécution du script 300116685 =============== 
 
@@ -100,18 +100,18 @@ Siaka'
 ###  =[BEGIN]============== Exécution du script 300116973 =============== 
 ```
 bienvenue au mashup game
-entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): 'Serge
-Ibaka'
-'Pascal
-Siakam'
+entre le premier nom (FIRST LAST) : entre un autre nom complet (FIRST LAST): Serge
+Ibaka
+Pascal
+Siakam
 Fin! ici vous avez deux possibilitees, choississez ce que vous aimez le plus!
-'sescal 'sescal
-'parge 'parge
+Secal Sercal
+Pasrge Pasge
 vous avez termine! choississez ce que vous aimez le plus
-'sescal
-'sescal
-'parge
-'parge
+Secal
+Sercal
+Pasrge
+Pasge
 ```
 ###  =[END]============== Exécution du script 300116973 =============== 
 
@@ -126,7 +126,7 @@ python: can't open file '300117029.py': [Errno 2] No such file or directory
 ###  =[BEGIN]============== Exécution du script 300117178 =============== 
 ```
 PRENOM:NOM:#####################
-Mashup: 'Seaka  'Piak
+Mashup: Serka  Paaka
 #####################
 ```
 ###  =[END]============== Exécution du script 300117178 =============== 
@@ -135,33 +135,33 @@ Mashup: 'Seaka  'Piak
 ###  =[BEGIN]============== Exécution du script 300117314 =============== 
 ```
 welcome to the mashup game
-inter one full name(First Last) :enter another full name(First Last) :'Serge
-Ibaka'
-'Pascal
-Siakam'
+inter one full name(First Last) :enter another full name(First Last) :Serge
+Ibaka
+Pascal
+Siakam
 All done! Here are two possibilities, pick the one you like best!
-'sescal Ibakam'
-'parge Siaka'
+Secal Ibkam
+Pasrge Siaaka
 ```
 ###  =[END]============== Exécution du script 300117314 =============== 
 
 ## Etudiant 300117444 
 ###  =[BEGIN]============== Exécution du script 300117444 =============== 
 ```
-Veuillez entrer un nom et un prenom:Veuillez entrer le 2eme nom et prenom:Sergal Si
-e Ibascal 
+Veuillez entrer un nom et un prenom:Veuillez entrer le 2eme nom et prenom:ergel Sia
+ Ibascal S
 ```
 ###  =[END]============== Exécution du script 300117444 =============== 
 
 ## Etudiant 300117705 
 ###  =[BEGIN]============== Exécution du script 300117705 =============== 
 ```
-entrer prenom et nom: entrer prenom et nom: ecal
-'Secal S
-'Parge
-Siaka'
-ecal 'Secal S
-'Parge Siaka'
+entrer prenom et nom: entrer prenom et nom: ral 
+Seral Si
+Pasge 
+iaka
+ral  Seral Si
+Pasge  iaka
 ```
 ###  =[END]============== Exécution du script 300117705 =============== 
 
@@ -169,10 +169,10 @@ ecal 'Secal S
 ###  =[BEGIN]============== Exécution du script 300117782 =============== 
 ```
 bienvenu dans mon jeu
-veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 'SerSia
-Iba'Pas
-Iba'Siak
-'SerIba
+veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: SergSia
+IbaPasc
+IbaPSiak
+SergIba
 Merci, Bonne journée
 ```
 ###  =[END]============== Exécution du script 300117782 =============== 
@@ -180,7 +180,7 @@ Merci, Bonne journée
 ## Etudiant 300117784 
 ###  =[BEGIN]============== Exécution du script 300117784 =============== 
 ```
-nom:prenom:Mashup: 'S Ib 'Pl 
+nom:prenom:Mashup: SeIba Pa S
 ```
 ###  =[END]============== Exécution du script 300117784 =============== 
 
@@ -207,7 +207,7 @@ python: can't open file '300117864.py': [Errno 2] No such file or directory
 Give me 2 names in the format : FIRST and LAST
 
 
-the new name in format FIRST and LAST is :'PSerge Si' 
+the new name in format FIRST and LAST is :Paerge Sia 
 
 ```
 ###  =[END]============== Exécution du script 300118075 =============== 
@@ -215,10 +215,10 @@ the new name in format FIRST and LAST is :'PSerge Si'
 ## Etudiant 300118196 
 ###  =[BEGIN]============== Exécution du script 300118196 =============== 
 ```
-veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: 'SerSia
-Iba'Pas
-Iba'Siak
-'SerIba
+veuillez saisir votre prénom: veuillez entrer par la suite votre nom usuel: SergSia
+IbaPasc
+IbaPSiak
+SergIba
 merci, aurevoir
 ```
 ###  =[END]============== Exécution du script 300118196 =============== 
@@ -227,8 +227,8 @@ merci, aurevoir
 ###  =[BEGIN]============== Exécution du script 300118524 =============== 
 ```
 Bienvenue au jeu du Mashup
-entrer un premier nom et prenom :  entrer un deuxième nom et prenom :  Possibilité N1:  'Sescal Ibakam'
-Possibilité N2:  scal'Se kam'Iba
+entrer un premier nom et prenom :  entrer un deuxième nom et prenom :  Possibilité N1:  Sescal Ibkam
+Possibilité N2:  scalSe kamIb
 Faites votre choix 
 MERCI
 ```

@@ -45,6 +45,7 @@ Introduction a la programmation
 - lamba functions (anonymous functions)
 - HOF (Higher-Order Function) - 
 - Pattern Matching
+- [Functions](https://docs.python.org/3/library/functions.html)
 
 ```
 ```

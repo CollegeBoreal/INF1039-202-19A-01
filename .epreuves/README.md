@@ -12,8 +12,8 @@
 
 | :hash:    | Type    | Description                                         |:infinity:| Statut           |
 |-----------|---------|-----------------------------------------------------|----------|------------------|
-| :one:     | Blog    | Installation Linux                                  | 25       | :+1:             |
-| :two:     | Quizz   | Linux Shell                                         | 20       | :+1:             |
-| :three:   | Projet  | Projet Linux                                        | 30       | :calendar:       |
-| :four:    | Quizz   | Final                                               | 25       | :calendar:       |
+| :one:     | Quizz   | Pre Test                                            | 20       | :+1:             |
+| :two:     | Quizz   | Fonctions.                                          | 25       | :calendar:       |
+| :three:   | Quizz   | Final                                               | 30       | :calendar:       |
+| :four:    | Participation  | Exercices Python                             | 25       | :calendar:       |
 |:wavy_dash:|         |                                                     |:100:     |                  |
